@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HotStreakV7.0.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HotStreakV7_0_jar</output-path>
+    <root id="archive" name="HotStreakTestAllVersionsWTimer.jar">
+      <element id="module-output" name="HotStreakTestAllVersionsWTimer" />
+    </root>
+  </artifact>
+</component>
